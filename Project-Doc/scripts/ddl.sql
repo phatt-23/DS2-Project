@@ -4,7 +4,7 @@ CREATE TABLE [z_user] (
   [first_name] nvarchar(50) NOT NULL,
   [last_name] nvarchar(50) NOT NULL,
   [email] nvarchar(255) UNIQUE NOT NULL,
-  [registration_date] datetime DEFAULT (GETDATE()),
+  [registration_date] datetime NOT NULL DEFAULT (GETDATE()),
   [about_me] nvarchar(500),
   [profile_picture_id] bigint,
   [last_login] datetime,
@@ -166,8 +166,7 @@ CREATE TABLE [z_video_chapter] (
   [chapter_id] bigint PRIMARY KEY IDENTITY(1, 1),
   [video_id] bigint,
   [title] nvarchar(100) NOT NULL,
-  [start_time] int NOT NULL,
-  [end_time] int
+  [start_time] int NOT NULL
 )
 GO
 

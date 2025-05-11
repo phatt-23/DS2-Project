@@ -1,0 +1,494 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\phatt\\Desktop\\DS2-Project\\Project-Impl\\DS2-ConsoleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5D89F7-DF54-42CD-929E-8DFC809FA972}|DS2-ConsoleApp\\DS2-ConsoleApp.csproj|c:\\users\\phatt\\desktop\\ds2-project\\project-impl\\ds2-consoleapp\\ds2-consoleapp\\orm\\dao\\transactiondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5D89F7-DF54-42CD-929E-8DFC809FA972}|DS2-ConsoleApp\\DS2-ConsoleApp.csproj|solutionrelative:ds2-consoleapp\\orm\\dao\\transactiondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5D89F7-DF54-42CD-929E-8DFC809FA972}|DS2-ConsoleApp\\DS2-ConsoleApp.csproj|c:\\users\\phatt\\desktop\\ds2-project\\project-impl\\ds2-consoleapp\\ds2-consoleapp\\orm\\dao\\playlistvideodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5D89F7-DF54-42CD-929E-8DFC809FA972}|DS2-ConsoleApp\\DS2-ConsoleApp.csproj|solutionrelative:ds2-consoleapp\\orm\\dao\\playlistvideodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5D89F7-DF54-42CD-929E-8DFC809FA972}|DS2-ConsoleApp\\DS2-ConsoleApp.csproj|c:\\users\\phatt\\desktop\\ds2-project\\project-impl\\ds2-consoleapp\\ds2-consoleapp\\orm\\dao\\videodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5D89F7-DF54-42CD-929E-8DFC809FA972}|DS2-ConsoleApp\\DS2-ConsoleApp.csproj|solutionrelative:ds2-consoleapp\\orm\\dao\\videodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5D89F7-DF54-42CD-929E-8DFC809FA972}|DS2-ConsoleApp\\DS2-ConsoleApp.csproj|c:\\users\\phatt\\desktop\\ds2-project\\project-impl\\ds2-consoleapp\\ds2-consoleapp\\orm\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5D89F7-DF54-42CD-929E-8DFC809FA972}|DS2-ConsoleApp\\DS2-ConsoleApp.csproj|solutionrelative:ds2-consoleapp\\orm\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5D89F7-DF54-42CD-929E-8DFC809FA972}|DS2-ConsoleApp\\DS2-ConsoleApp.csproj|c:\\users\\phatt\\desktop\\ds2-project\\project-impl\\ds2-consoleapp\\ds2-consoleapp\\orm\\dao\\videochapterdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5D89F7-DF54-42CD-929E-8DFC809FA972}|DS2-ConsoleApp\\DS2-ConsoleApp.csproj|solutionrelative:ds2-consoleapp\\orm\\dao\\videochapterdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5D89F7-DF54-42CD-929E-8DFC809FA972}|DS2-ConsoleApp\\DS2-ConsoleApp.csproj|c:\\users\\phatt\\desktop\\ds2-project\\project-impl\\ds2-consoleapp\\ds2-consoleapp\\orm\\dao\\playlistdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5D89F7-DF54-42CD-929E-8DFC809FA972}|DS2-ConsoleApp\\DS2-ConsoleApp.csproj|solutionrelative:ds2-consoleapp\\orm\\dao\\playlistdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5D89F7-DF54-42CD-929E-8DFC809FA972}|DS2-ConsoleApp\\DS2-ConsoleApp.csproj|c:\\users\\phatt\\desktop\\ds2-project\\project-impl\\ds2-consoleapp\\ds2-consoleapp\\orm\\dao\\mediadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5D89F7-DF54-42CD-929E-8DFC809FA972}|DS2-ConsoleApp\\DS2-ConsoleApp.csproj|solutionrelative:ds2-consoleapp\\orm\\dao\\mediadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5D89F7-DF54-42CD-929E-8DFC809FA972}|DS2-ConsoleApp\\DS2-ConsoleApp.csproj|c:\\users\\phatt\\desktop\\ds2-project\\project-impl\\ds2-consoleapp\\ds2-consoleapp\\orm\\dto\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5D89F7-DF54-42CD-929E-8DFC809FA972}|DS2-ConsoleApp\\DS2-ConsoleApp.csproj|solutionrelative:ds2-consoleapp\\orm\\dto\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5D89F7-DF54-42CD-929E-8DFC809FA972}|DS2-ConsoleApp\\DS2-ConsoleApp.csproj|c:\\users\\phatt\\desktop\\ds2-project\\project-impl\\ds2-consoleapp\\ds2-consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5D89F7-DF54-42CD-929E-8DFC809FA972}|DS2-ConsoleApp\\DS2-ConsoleApp.csproj|solutionrelative:ds2-consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5D89F7-DF54-42CD-929E-8DFC809FA972}|DS2-ConsoleApp\\DS2-ConsoleApp.csproj|c:\\users\\phatt\\desktop\\ds2-project\\project-impl\\ds2-consoleapp\\ds2-consoleapp\\orm\\dto\\videochapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5D89F7-DF54-42CD-929E-8DFC809FA972}|DS2-ConsoleApp\\DS2-ConsoleApp.csproj|solutionrelative:ds2-consoleapp\\orm\\dto\\videochapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5D89F7-DF54-42CD-929E-8DFC809FA972}|DS2-ConsoleApp\\DS2-ConsoleApp.csproj|c:\\users\\phatt\\desktop\\ds2-project\\project-impl\\ds2-consoleapp\\ds2-consoleapp\\orm\\dto\\playlistvideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5D89F7-DF54-42CD-929E-8DFC809FA972}|DS2-ConsoleApp\\DS2-ConsoleApp.csproj|solutionrelative:ds2-consoleapp\\orm\\dto\\playlistvideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5D89F7-DF54-42CD-929E-8DFC809FA972}|DS2-ConsoleApp\\DS2-ConsoleApp.csproj|c:\\users\\phatt\\desktop\\ds2-project\\project-impl\\ds2-consoleapp\\ds2-consoleapp\\orm\\dto\\videocategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5D89F7-DF54-42CD-929E-8DFC809FA972}|DS2-ConsoleApp\\DS2-ConsoleApp.csproj|solutionrelative:ds2-consoleapp\\orm\\dto\\videocategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5D89F7-DF54-42CD-929E-8DFC809FA972}|DS2-ConsoleApp\\DS2-ConsoleApp.csproj|c:\\users\\phatt\\desktop\\ds2-project\\project-impl\\ds2-consoleapp\\ds2-consoleapp\\orm\\dao\\videocategorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5D89F7-DF54-42CD-929E-8DFC809FA972}|DS2-ConsoleApp\\DS2-ConsoleApp.csproj|solutionrelative:ds2-consoleapp\\orm\\dao\\videocategorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5D89F7-DF54-42CD-929E-8DFC809FA972}|DS2-ConsoleApp\\DS2-ConsoleApp.csproj|c:\\users\\phatt\\desktop\\ds2-project\\project-impl\\ds2-consoleapp\\ds2-consoleapp\\orm\\dao\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5D89F7-DF54-42CD-929E-8DFC809FA972}|DS2-ConsoleApp\\DS2-ConsoleApp.csproj|solutionrelative:ds2-consoleapp\\orm\\dao\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5D89F7-DF54-42CD-929E-8DFC809FA972}|DS2-ConsoleApp\\DS2-ConsoleApp.csproj|c:\\users\\phatt\\desktop\\ds2-project\\project-impl\\ds2-consoleapp\\ds2-consoleapp\\helper\\sqlattribmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5D89F7-DF54-42CD-929E-8DFC809FA972}|DS2-ConsoleApp\\DS2-ConsoleApp.csproj|solutionrelative:ds2-consoleapp\\helper\\sqlattribmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5D89F7-DF54-42CD-929E-8DFC809FA972}|DS2-ConsoleApp\\DS2-ConsoleApp.csproj|c:\\users\\phatt\\desktop\\ds2-project\\project-impl\\ds2-consoleapp\\ds2-consoleapp\\orm\\dto\\media.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5D89F7-DF54-42CD-929E-8DFC809FA972}|DS2-ConsoleApp\\DS2-ConsoleApp.csproj|solutionrelative:ds2-consoleapp\\orm\\dto\\media.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5D89F7-DF54-42CD-929E-8DFC809FA972}|DS2-ConsoleApp\\DS2-ConsoleApp.csproj|c:\\users\\phatt\\desktop\\ds2-project\\project-impl\\ds2-consoleapp\\ds2-consoleapp\\orm\\dto\\visibility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5D89F7-DF54-42CD-929E-8DFC809FA972}|DS2-ConsoleApp\\DS2-ConsoleApp.csproj|solutionrelative:ds2-consoleapp\\orm\\dto\\visibility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5D89F7-DF54-42CD-929E-8DFC809FA972}|DS2-ConsoleApp\\DS2-ConsoleApp.csproj|c:\\users\\phatt\\desktop\\ds2-project\\project-impl\\ds2-consoleapp\\ds2-consoleapp\\orm\\dto\\mediatype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5D89F7-DF54-42CD-929E-8DFC809FA972}|DS2-ConsoleApp\\DS2-ConsoleApp.csproj|solutionrelative:ds2-consoleapp\\orm\\dto\\mediatype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5D89F7-DF54-42CD-929E-8DFC809FA972}|DS2-ConsoleApp\\DS2-ConsoleApp.csproj|c:\\users\\phatt\\desktop\\ds2-project\\project-impl\\ds2-consoleapp\\ds2-consoleapp\\orm\\dao\\channeldao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5D89F7-DF54-42CD-929E-8DFC809FA972}|DS2-ConsoleApp\\DS2-ConsoleApp.csproj|solutionrelative:ds2-consoleapp\\orm\\dao\\channeldao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5D89F7-DF54-42CD-929E-8DFC809FA972}|DS2-ConsoleApp\\DS2-ConsoleApp.csproj|c:\\users\\phatt\\desktop\\ds2-project\\project-impl\\ds2-consoleapp\\ds2-consoleapp\\orm\\dto\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5D89F7-DF54-42CD-929E-8DFC809FA972}|DS2-ConsoleApp\\DS2-ConsoleApp.csproj|solutionrelative:ds2-consoleapp\\orm\\dto\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5D89F7-DF54-42CD-929E-8DFC809FA972}|DS2-ConsoleApp\\DS2-ConsoleApp.csproj|c:\\users\\phatt\\desktop\\ds2-project\\project-impl\\ds2-consoleapp\\ds2-consoleapp\\orm\\dto\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5D89F7-DF54-42CD-929E-8DFC809FA972}|DS2-ConsoleApp\\DS2-ConsoleApp.csproj|solutionrelative:ds2-consoleapp\\orm\\dto\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5D89F7-DF54-42CD-929E-8DFC809FA972}|DS2-ConsoleApp\\DS2-ConsoleApp.csproj|c:\\users\\phatt\\desktop\\ds2-project\\project-impl\\ds2-consoleapp\\ds2-consoleapp\\orm\\dao\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5D89F7-DF54-42CD-929E-8DFC809FA972}|DS2-ConsoleApp\\DS2-ConsoleApp.csproj|solutionrelative:ds2-consoleapp\\orm\\dao\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5D89F7-DF54-42CD-929E-8DFC809FA972}|DS2-ConsoleApp\\DS2-ConsoleApp.csproj|c:\\users\\phatt\\desktop\\ds2-project\\project-impl\\ds2-consoleapp\\ds2-consoleapp\\orm\\dto\\channel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5D89F7-DF54-42CD-929E-8DFC809FA972}|DS2-ConsoleApp\\DS2-ConsoleApp.csproj|solutionrelative:ds2-consoleapp\\orm\\dto\\channel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5D89F7-DF54-42CD-929E-8DFC809FA972}|DS2-ConsoleApp\\DS2-ConsoleApp.csproj|c:\\users\\phatt\\desktop\\ds2-project\\project-impl\\ds2-consoleapp\\ds2-consoleapp\\orm\\dto\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5D89F7-DF54-42CD-929E-8DFC809FA972}|DS2-ConsoleApp\\DS2-ConsoleApp.csproj|solutionrelative:ds2-consoleapp\\orm\\dto\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\phatt\\AppData\\Local\\Temp\\.vsdbgsrc\\0ef4efde3f8ced2dee82843546dcc39d87e9378d77faae7d2944d0f86d14f7a3\\SqlBuffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5D89F7-DF54-42CD-929E-8DFC809FA972}|DS2-ConsoleApp\\DS2-ConsoleApp.csproj|c:\\users\\phatt\\desktop\\ds2-project\\project-impl\\ds2-consoleapp\\ds2-consoleapp\\orm\\dto\\usetstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5D89F7-DF54-42CD-929E-8DFC809FA972}|DS2-ConsoleApp\\DS2-ConsoleApp.csproj|solutionrelative:ds2-consoleapp\\orm\\dto\\usetstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5D89F7-DF54-42CD-929E-8DFC809FA972}|DS2-ConsoleApp\\DS2-ConsoleApp.csproj|c:\\users\\phatt\\desktop\\ds2-project\\project-impl\\ds2-consoleapp\\ds2-consoleapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{EC5D89F7-DF54-42CD-929E-8DFC809FA972}|DS2-ConsoleApp\\DS2-ConsoleApp.csproj|solutionrelative:ds2-consoleapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5D89F7-DF54-42CD-929E-8DFC809FA972}|DS2-ConsoleApp\\DS2-ConsoleApp.csproj|c:\\users\\phatt\\desktop\\ds2-project\\project-impl\\ds2-consoleapp\\ds2-consoleapp\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5D89F7-DF54-42CD-929E-8DFC809FA972}|DS2-ConsoleApp\\DS2-ConsoleApp.csproj|solutionrelative:ds2-consoleapp\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TransactionDao.cs",
+              "DocumentMoniker": "C:\\Users\\phatt\\Desktop\\DS2-Project\\Project-Impl\\DS2-ConsoleApp\\DS2-ConsoleApp\\Orm\\Dao\\TransactionDao.cs",
+              "RelativeDocumentMoniker": "DS2-ConsoleApp\\Orm\\Dao\\TransactionDao.cs",
+              "ToolTip": "C:\\Users\\phatt\\Desktop\\DS2-Project\\Project-Impl\\DS2-ConsoleApp\\DS2-ConsoleApp\\Orm\\Dao\\TransactionDao.cs",
+              "RelativeToolTip": "DS2-ConsoleApp\\Orm\\Dao\\TransactionDao.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAASwHgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T21:29:50.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VideoChapter.cs",
+              "DocumentMoniker": "C:\\Users\\phatt\\Desktop\\DS2-Project\\Project-Impl\\DS2-ConsoleApp\\DS2-ConsoleApp\\Orm\\Dto\\VideoChapter.cs",
+              "RelativeDocumentMoniker": "DS2-ConsoleApp\\Orm\\Dto\\VideoChapter.cs",
+              "ToolTip": "C:\\Users\\phatt\\Desktop\\DS2-Project\\Project-Impl\\DS2-ConsoleApp\\DS2-ConsoleApp\\Orm\\Dto\\VideoChapter.cs",
+              "RelativeToolTip": "DS2-ConsoleApp\\Orm\\Dto\\VideoChapter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T21:11:38.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Media.cs",
+              "DocumentMoniker": "C:\\Users\\phatt\\Desktop\\DS2-Project\\Project-Impl\\DS2-ConsoleApp\\DS2-ConsoleApp\\Orm\\Dto\\Media.cs",
+              "RelativeDocumentMoniker": "DS2-ConsoleApp\\Orm\\Dto\\Media.cs",
+              "ToolTip": "C:\\Users\\phatt\\Desktop\\DS2-Project\\Project-Impl\\DS2-ConsoleApp\\DS2-ConsoleApp\\Orm\\Dto\\Media.cs",
+              "RelativeToolTip": "DS2-ConsoleApp\\Orm\\Dto\\Media.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T17:05:19.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VideoDao.cs",
+              "DocumentMoniker": "C:\\Users\\phatt\\Desktop\\DS2-Project\\Project-Impl\\DS2-ConsoleApp\\DS2-ConsoleApp\\Orm\\Dao\\VideoDao.cs",
+              "RelativeDocumentMoniker": "DS2-ConsoleApp\\Orm\\Dao\\VideoDao.cs",
+              "ToolTip": "C:\\Users\\phatt\\Desktop\\DS2-Project\\Project-Impl\\DS2-ConsoleApp\\DS2-ConsoleApp\\Orm\\Dao\\VideoDao.cs",
+              "RelativeToolTip": "DS2-ConsoleApp\\Orm\\Dao\\VideoDao.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAiwCIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T17:03:05.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Video.cs",
+              "DocumentMoniker": "C:\\Users\\phatt\\Desktop\\DS2-Project\\Project-Impl\\DS2-ConsoleApp\\DS2-ConsoleApp\\Orm\\Dto\\Video.cs",
+              "RelativeDocumentMoniker": "DS2-ConsoleApp\\Orm\\Dto\\Video.cs",
+              "ToolTip": "C:\\Users\\phatt\\Desktop\\DS2-Project\\Project-Impl\\DS2-ConsoleApp\\DS2-ConsoleApp\\Orm\\Dto\\Video.cs",
+              "RelativeToolTip": "DS2-ConsoleApp\\Orm\\Dto\\Video.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T16:56:57.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\phatt\\Desktop\\DS2-Project\\Project-Impl\\DS2-ConsoleApp\\DS2-ConsoleApp\\Orm\\Database.cs",
+              "RelativeDocumentMoniker": "DS2-ConsoleApp\\Orm\\Database.cs",
+              "ToolTip": "C:\\Users\\phatt\\Desktop\\DS2-Project\\Project-Impl\\DS2-ConsoleApp\\DS2-ConsoleApp\\Orm\\Database.cs",
+              "RelativeToolTip": "DS2-ConsoleApp\\Orm\\Database.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAIA6wGoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T19:42:37.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlaylistDao.cs",
+              "DocumentMoniker": "C:\\Users\\phatt\\Desktop\\DS2-Project\\Project-Impl\\DS2-ConsoleApp\\DS2-ConsoleApp\\Orm\\Dao\\PlaylistDao.cs",
+              "RelativeDocumentMoniker": "DS2-ConsoleApp\\Orm\\Dao\\PlaylistDao.cs",
+              "ToolTip": "C:\\Users\\phatt\\Desktop\\DS2-Project\\Project-Impl\\DS2-ConsoleApp\\DS2-ConsoleApp\\Orm\\Dao\\PlaylistDao.cs",
+              "RelativeToolTip": "DS2-ConsoleApp\\Orm\\Dao\\PlaylistDao.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAUwDEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:39:28.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VideoChapterDao.cs",
+              "DocumentMoniker": "C:\\Users\\phatt\\Desktop\\DS2-Project\\Project-Impl\\DS2-ConsoleApp\\DS2-ConsoleApp\\Orm\\Dao\\VideoChapterDao.cs",
+              "RelativeDocumentMoniker": "DS2-ConsoleApp\\Orm\\Dao\\VideoChapterDao.cs",
+              "ToolTip": "C:\\Users\\phatt\\Desktop\\DS2-Project\\Project-Impl\\DS2-ConsoleApp\\DS2-ConsoleApp\\Orm\\Dao\\VideoChapterDao.cs",
+              "RelativeToolTip": "DS2-ConsoleApp\\Orm\\Dao\\VideoChapterDao.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwBgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T21:13:26.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlaylistVideoDao.cs",
+              "DocumentMoniker": "C:\\Users\\phatt\\Desktop\\DS2-Project\\Project-Impl\\DS2-ConsoleApp\\DS2-ConsoleApp\\Orm\\Dao\\PlaylistVideoDao.cs",
+              "RelativeDocumentMoniker": "DS2-ConsoleApp\\Orm\\Dao\\PlaylistVideoDao.cs",
+              "ToolTip": "C:\\Users\\phatt\\Desktop\\DS2-Project\\Project-Impl\\DS2-ConsoleApp\\DS2-ConsoleApp\\Orm\\Dao\\PlaylistVideoDao.cs",
+              "RelativeToolTip": "DS2-ConsoleApp\\Orm\\Dao\\PlaylistVideoDao.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:50:47.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\phatt\\Desktop\\DS2-Project\\Project-Impl\\DS2-ConsoleApp\\DS2-ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "DS2-ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\phatt\\Desktop\\DS2-Project\\Project-Impl\\DS2-ConsoleApp\\DS2-ConsoleApp\\Program.cs",
+              "RelativeToolTip": "DS2-ConsoleApp\\Program.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEIAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T19:09:21.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MediaDao.cs",
+              "DocumentMoniker": "C:\\Users\\phatt\\Desktop\\DS2-Project\\Project-Impl\\DS2-ConsoleApp\\DS2-ConsoleApp\\Orm\\Dao\\MediaDao.cs",
+              "RelativeDocumentMoniker": "DS2-ConsoleApp\\Orm\\Dao\\MediaDao.cs",
+              "ToolTip": "C:\\Users\\phatt\\Desktop\\DS2-Project\\Project-Impl\\DS2-ConsoleApp\\DS2-ConsoleApp\\Orm\\Dao\\MediaDao.cs",
+              "RelativeToolTip": "DS2-ConsoleApp\\Orm\\Dao\\MediaDao.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA2wCwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T17:07:47.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VideoCategory.cs",
+              "DocumentMoniker": "C:\\Users\\phatt\\Desktop\\DS2-Project\\Project-Impl\\DS2-ConsoleApp\\DS2-ConsoleApp\\Orm\\Dto\\VideoCategory.cs",
+              "RelativeDocumentMoniker": "DS2-ConsoleApp\\Orm\\Dto\\VideoCategory.cs",
+              "ToolTip": "C:\\Users\\phatt\\Desktop\\DS2-Project\\Project-Impl\\DS2-ConsoleApp\\DS2-ConsoleApp\\Orm\\Dto\\VideoCategory.cs",
+              "RelativeToolTip": "DS2-ConsoleApp\\Orm\\Dto\\VideoCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:35:53.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VideoCategoryDao.cs",
+              "DocumentMoniker": "C:\\Users\\phatt\\Desktop\\DS2-Project\\Project-Impl\\DS2-ConsoleApp\\DS2-ConsoleApp\\Orm\\Dao\\VideoCategoryDao.cs",
+              "RelativeDocumentMoniker": "DS2-ConsoleApp\\Orm\\Dao\\VideoCategoryDao.cs",
+              "ToolTip": "C:\\Users\\phatt\\Desktop\\DS2-Project\\Project-Impl\\DS2-ConsoleApp\\DS2-ConsoleApp\\Orm\\Dao\\VideoCategoryDao.cs",
+              "RelativeToolTip": "DS2-ConsoleApp\\Orm\\Dao\\VideoCategoryDao.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:36:43.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlaylistVideo.cs",
+              "DocumentMoniker": "C:\\Users\\phatt\\Desktop\\DS2-Project\\Project-Impl\\DS2-ConsoleApp\\DS2-ConsoleApp\\Orm\\Dto\\PlaylistVideo.cs",
+              "RelativeDocumentMoniker": "DS2-ConsoleApp\\Orm\\Dto\\PlaylistVideo.cs",
+              "ToolTip": "C:\\Users\\phatt\\Desktop\\DS2-Project\\Project-Impl\\DS2-ConsoleApp\\DS2-ConsoleApp\\Orm\\Dto\\PlaylistVideo.cs",
+              "RelativeToolTip": "DS2-ConsoleApp\\Orm\\Dto\\PlaylistVideo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:49:44.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Visibility.cs",
+              "DocumentMoniker": "C:\\Users\\phatt\\Desktop\\DS2-Project\\Project-Impl\\DS2-ConsoleApp\\DS2-ConsoleApp\\Orm\\Dto\\Visibility.cs",
+              "RelativeDocumentMoniker": "DS2-ConsoleApp\\Orm\\Dto\\Visibility.cs",
+              "ToolTip": "C:\\Users\\phatt\\Desktop\\DS2-Project\\Project-Impl\\DS2-ConsoleApp\\DS2-ConsoleApp\\Orm\\Dto\\Visibility.cs",
+              "RelativeToolTip": "DS2-ConsoleApp\\Orm\\Dto\\Visibility.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T17:02:13.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SqlAttribMapper.cs",
+              "DocumentMoniker": "C:\\Users\\phatt\\Desktop\\DS2-Project\\Project-Impl\\DS2-ConsoleApp\\DS2-ConsoleApp\\Helper\\SqlAttribMapper.cs",
+              "RelativeDocumentMoniker": "DS2-ConsoleApp\\Helper\\SqlAttribMapper.cs",
+              "ToolTip": "C:\\Users\\phatt\\Desktop\\DS2-Project\\Project-Impl\\DS2-ConsoleApp\\DS2-ConsoleApp\\Helper\\SqlAttribMapper.cs",
+              "RelativeToolTip": "DS2-ConsoleApp\\Helper\\SqlAttribMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:57:46.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MediaType.cs",
+              "DocumentMoniker": "C:\\Users\\phatt\\Desktop\\DS2-Project\\Project-Impl\\DS2-ConsoleApp\\DS2-ConsoleApp\\Orm\\Dto\\MediaType.cs",
+              "RelativeDocumentMoniker": "DS2-ConsoleApp\\Orm\\Dto\\MediaType.cs",
+              "ToolTip": "C:\\Users\\phatt\\Desktop\\DS2-Project\\Project-Impl\\DS2-ConsoleApp\\DS2-ConsoleApp\\Orm\\Dto\\MediaType.cs",
+              "RelativeToolTip": "DS2-ConsoleApp\\Orm\\Dto\\MediaType.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvyAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T17:07:24.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CategoryDao.cs",
+              "DocumentMoniker": "C:\\Users\\phatt\\Desktop\\DS2-Project\\Project-Impl\\DS2-ConsoleApp\\DS2-ConsoleApp\\Orm\\Dao\\CategoryDao.cs",
+              "RelativeDocumentMoniker": "DS2-ConsoleApp\\Orm\\Dao\\CategoryDao.cs",
+              "ToolTip": "C:\\Users\\phatt\\Desktop\\DS2-Project\\Project-Impl\\DS2-ConsoleApp\\DS2-ConsoleApp\\Orm\\Dao\\CategoryDao.cs",
+              "RelativeToolTip": "DS2-ConsoleApp\\Orm\\Dao\\CategoryDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T20:50:58.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ChannelDao.cs",
+              "DocumentMoniker": "C:\\Users\\phatt\\Desktop\\DS2-Project\\Project-Impl\\DS2-ConsoleApp\\DS2-ConsoleApp\\Orm\\Dao\\ChannelDao.cs",
+              "RelativeDocumentMoniker": "DS2-ConsoleApp\\Orm\\Dao\\ChannelDao.cs",
+              "ToolTip": "C:\\Users\\phatt\\Desktop\\DS2-Project\\Project-Impl\\DS2-ConsoleApp\\DS2-ConsoleApp\\Orm\\Dao\\ChannelDao.cs",
+              "RelativeToolTip": "DS2-ConsoleApp\\Orm\\Dao\\ChannelDao.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T18:31:57.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\phatt\\Desktop\\DS2-Project\\Project-Impl\\DS2-ConsoleApp\\DS2-ConsoleApp\\Orm\\Dto\\Category.cs",
+              "RelativeDocumentMoniker": "DS2-ConsoleApp\\Orm\\Dto\\Category.cs",
+              "ToolTip": "C:\\Users\\phatt\\Desktop\\DS2-Project\\Project-Impl\\DS2-ConsoleApp\\DS2-ConsoleApp\\Orm\\Dto\\Category.cs",
+              "RelativeToolTip": "DS2-ConsoleApp\\Orm\\Dto\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T20:37:48.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Playlist.cs",
+              "DocumentMoniker": "C:\\Users\\phatt\\Desktop\\DS2-Project\\Project-Impl\\DS2-ConsoleApp\\DS2-ConsoleApp\\Orm\\Dto\\Playlist.cs",
+              "RelativeDocumentMoniker": "DS2-ConsoleApp\\Orm\\Dto\\Playlist.cs",
+              "ToolTip": "C:\\Users\\phatt\\Desktop\\DS2-Project\\Project-Impl\\DS2-ConsoleApp\\DS2-ConsoleApp\\Orm\\Dto\\Playlist.cs",
+              "RelativeToolTip": "DS2-ConsoleApp\\Orm\\Dto\\Playlist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:36:54.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Channel.cs",
+              "DocumentMoniker": "C:\\Users\\phatt\\Desktop\\DS2-Project\\Project-Impl\\DS2-ConsoleApp\\DS2-ConsoleApp\\Orm\\Dto\\Channel.cs",
+              "RelativeDocumentMoniker": "DS2-ConsoleApp\\Orm\\Dto\\Channel.cs",
+              "ToolTip": "C:\\Users\\phatt\\Desktop\\DS2-Project\\Project-Impl\\DS2-ConsoleApp\\DS2-ConsoleApp\\Orm\\Dto\\Channel.cs",
+              "RelativeToolTip": "DS2-ConsoleApp\\Orm\\Dto\\Channel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T18:25:16.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SqlBuffer.cs",
+              "DocumentMoniker": "C:\\Users\\phatt\\AppData\\Local\\Temp\\.vsdbgsrc\\0ef4efde3f8ced2dee82843546dcc39d87e9378d77faae7d2944d0f86d14f7a3\\SqlBuffer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\0ef4efde3f8ced2dee82843546dcc39d87e9378d77faae7d2944d0f86d14f7a3\\SqlBuffer.cs",
+              "ToolTip": "C:\\Users\\phatt\\AppData\\Local\\Temp\\.vsdbgsrc\\0ef4efde3f8ced2dee82843546dcc39d87e9378d77faae7d2944d0f86d14f7a3\\SqlBuffer.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\0ef4efde3f8ced2dee82843546dcc39d87e9378d77faae7d2944d0f86d14f7a3\\SqlBuffer.cs [Read Only]",
+              "ViewState": "AgIAAOMEAAAAAAAAAAAswPcEAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T18:01:52.273Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UsetStatus.cs",
+              "DocumentMoniker": "C:\\Users\\phatt\\Desktop\\DS2-Project\\Project-Impl\\DS2-ConsoleApp\\DS2-ConsoleApp\\Orm\\Dto\\UsetStatus.cs",
+              "RelativeDocumentMoniker": "DS2-ConsoleApp\\Orm\\Dto\\UsetStatus.cs",
+              "ToolTip": "C:\\Users\\phatt\\Desktop\\DS2-Project\\Project-Impl\\DS2-ConsoleApp\\DS2-ConsoleApp\\Orm\\Dto\\UsetStatus.cs",
+              "RelativeToolTip": "DS2-ConsoleApp\\Orm\\Dto\\UsetStatus.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwBsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T17:51:07.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserDao.cs",
+              "DocumentMoniker": "C:\\Users\\phatt\\Desktop\\DS2-Project\\Project-Impl\\DS2-ConsoleApp\\DS2-ConsoleApp\\Orm\\Dao\\UserDao.cs",
+              "RelativeDocumentMoniker": "DS2-ConsoleApp\\Orm\\Dao\\UserDao.cs",
+              "ToolTip": "C:\\Users\\phatt\\Desktop\\DS2-Project\\Project-Impl\\DS2-ConsoleApp\\DS2-ConsoleApp\\Orm\\Dao\\UserDao.cs",
+              "RelativeToolTip": "DS2-ConsoleApp\\Orm\\Dao\\UserDao.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAwwDIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T17:41:41.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\phatt\\Desktop\\DS2-Project\\Project-Impl\\DS2-ConsoleApp\\DS2-ConsoleApp\\Orm\\Dto\\User.cs",
+              "RelativeDocumentMoniker": "DS2-ConsoleApp\\Orm\\Dto\\User.cs",
+              "ToolTip": "C:\\Users\\phatt\\Desktop\\DS2-Project\\Project-Impl\\DS2-ConsoleApp\\DS2-ConsoleApp\\Orm\\Dto\\User.cs",
+              "RelativeToolTip": "DS2-ConsoleApp\\Orm\\Dto\\User.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T16:06:18.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Config.cs",
+              "DocumentMoniker": "C:\\Users\\phatt\\Desktop\\DS2-Project\\Project-Impl\\DS2-ConsoleApp\\DS2-ConsoleApp\\Config.cs",
+              "RelativeDocumentMoniker": "DS2-ConsoleApp\\Config.cs",
+              "ToolTip": "C:\\Users\\phatt\\Desktop\\DS2-Project\\Project-Impl\\DS2-ConsoleApp\\DS2-ConsoleApp\\Config.cs",
+              "RelativeToolTip": "DS2-ConsoleApp\\Config.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T19:20:55.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\phatt\\Desktop\\DS2-Project\\Project-Impl\\DS2-ConsoleApp\\DS2-ConsoleApp\\App.config",
+              "RelativeDocumentMoniker": "DS2-ConsoleApp\\App.config",
+              "ToolTip": "C:\\Users\\phatt\\Desktop\\DS2-Project\\Project-Impl\\DS2-ConsoleApp\\DS2-ConsoleApp\\App.config",
+              "RelativeToolTip": "DS2-ConsoleApp\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-10T19:11:39.421Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
