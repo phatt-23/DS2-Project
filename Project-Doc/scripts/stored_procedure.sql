@@ -72,9 +72,9 @@ BEGIN
 
         -- Insert into z_playlist_video with ordering
         DECLARE @playlist_id BIGINT, 
-				@next_order INT;
-
-        DECLARE playlist_cursor CURSOR FOR SELECT p.[value] FROM @p_playlist_ids p;
+			    @next_order INT;
+		
+		DECLARE playlist_cursor CURSOR FOR SELECT p.[value] FROM @p_playlist_ids p;
 			OPEN playlist_cursor;
 				FETCH NEXT FROM playlist_cursor INTO @playlist_id;
 
@@ -90,18 +90,18 @@ BEGIN
 					FETCH NEXT FROM playlist_cursor INTO @playlist_id;
 				END
 			CLOSE playlist_cursor;
-        DEALLOCATE playlist_cursor;
+		DEALLOCATE playlist_cursor;
 
         -- Insert video chapters
-        INSERT INTO z_video_chapter (video_id, title, start_time)
-        SELECT @video_id, pc.title, pc.start_time
-        FROM @p_chapters pc;
+		INSERT INTO z_video_chapter (video_id, title, start_time)
+		SELECT @video_id, pc.title, pc.start_time
+		FROM @p_chapters pc;
 
-        COMMIT;
-        SET @p_inserted_video_id = @video_id;
-    END TRY
-    BEGIN CATCH
-        ROLLBACK;
-        THROW;
-    END CATCH
+		COMMIT;
+		SET @p_inserted_video_id = @video_id;
+	END TRY
+	BEGIN CATCH
+		ROLLBACK;
+		THROW;
+	END CATCH
 END
