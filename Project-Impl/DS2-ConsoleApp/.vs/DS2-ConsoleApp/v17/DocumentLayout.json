@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{EC5D89F7-DF54-42CD-929E-8DFC809FA972}|DS2-ConsoleApp\\DS2-ConsoleApp.csproj|solutionrelative:ds2-consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC5D89F7-DF54-42CD-929E-8DFC809FA972}|DS2-ConsoleApp\\DS2-ConsoleApp.csproj|c:\\users\\phatt\\desktop\\ds2-project\\project-impl\\ds2-consoleapp\\ds2-consoleapp\\orm\\dao\\videodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC5D89F7-DF54-42CD-929E-8DFC809FA972}|DS2-ConsoleApp\\DS2-ConsoleApp.csproj|solutionrelative:ds2-consoleapp\\orm\\dao\\videodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EC5D89F7-DF54-42CD-929E-8DFC809FA972}|DS2-ConsoleApp\\DS2-ConsoleApp.csproj|c:\\users\\phatt\\desktop\\ds2-project\\project-impl\\ds2-consoleapp\\ds2-consoleapp\\orm\\dao\\transactiondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC5D89F7-DF54-42CD-929E-8DFC809FA972}|DS2-ConsoleApp\\DS2-ConsoleApp.csproj|solutionrelative:ds2-consoleapp\\orm\\dao\\transactiondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5D89F7-DF54-42CD-929E-8DFC809FA972}|DS2-ConsoleApp\\DS2-ConsoleApp.csproj|c:\\users\\phatt\\desktop\\ds2-project\\project-impl\\ds2-consoleapp\\ds2-consoleapp\\orm\\dao\\videodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5D89F7-DF54-42CD-929E-8DFC809FA972}|DS2-ConsoleApp\\DS2-ConsoleApp.csproj|solutionrelative:ds2-consoleapp\\orm\\dao\\videodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EC5D89F7-DF54-42CD-929E-8DFC809FA972}|DS2-ConsoleApp\\DS2-ConsoleApp.csproj|c:\\users\\phatt\\desktop\\ds2-project\\project-impl\\ds2-consoleapp\\ds2-consoleapp\\orm\\dao\\playlistvideodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -129,20 +129,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "TransactionDao.cs",
               "DocumentMoniker": "C:\\Users\\phatt\\Desktop\\DS2-Project\\Project-Impl\\DS2-ConsoleApp\\DS2-ConsoleApp\\Orm\\Dao\\TransactionDao.cs",
               "RelativeDocumentMoniker": "DS2-ConsoleApp\\Orm\\Dao\\TransactionDao.cs",
               "ToolTip": "C:\\Users\\phatt\\Desktop\\DS2-Project\\Project-Impl\\DS2-ConsoleApp\\DS2-ConsoleApp\\Orm\\Dao\\TransactionDao.cs",
               "RelativeToolTip": "DS2-ConsoleApp\\Orm\\Dao\\TransactionDao.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAASwHgAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAALEAAAAAAAAAAAASwMUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-11T21:29:50.427Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "VideoDao.cs",
               "DocumentMoniker": "C:\\Users\\phatt\\Desktop\\DS2-Project\\Project-Impl\\DS2-ConsoleApp\\DS2-ConsoleApp\\Orm\\Dao\\VideoDao.cs",
               "RelativeDocumentMoniker": "DS2-ConsoleApp\\Orm\\Dao\\VideoDao.cs",
@@ -150,8 +150,7 @@
               "RelativeToolTip": "DS2-ConsoleApp\\Orm\\Dao\\VideoDao.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAUwCIAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T17:03:05.603Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-11T17:03:05.603Z"
             },
             {
               "$type": "Document",
@@ -163,8 +162,7 @@
               "RelativeToolTip": "DS2-ConsoleApp\\Orm\\Database.cs",
               "ViewState": "AgIAAFYAAAAAAAAAAIA6wGoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T19:42:37.449Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-10T19:42:37.449Z"
             },
             {
               "$type": "Document",
@@ -176,8 +174,7 @@
               "RelativeToolTip": "DS2-ConsoleApp\\Orm\\Dao\\PlaylistDao.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAUwDEAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T19:39:28.31Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-11T19:39:28.31Z"
             },
             {
               "$type": "Document",
@@ -202,8 +199,7 @@
               "RelativeToolTip": "DS2-ConsoleApp\\Orm\\Dao\\PlaylistVideoDao.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T22:50:47.645Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-11T22:50:47.645Z"
             },
             {
               "$type": "Document",
@@ -215,8 +211,7 @@
               "RelativeToolTip": "DS2-ConsoleApp\\Orm\\Dto\\VideoChapter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T21:11:38.637Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-11T21:11:38.637Z"
             },
             {
               "$type": "Document",
@@ -226,7 +221,7 @@
               "RelativeDocumentMoniker": "DS2-ConsoleApp\\Program.cs",
               "ToolTip": "C:\\Users\\phatt\\Desktop\\DS2-Project\\Project-Impl\\DS2-ConsoleApp\\DS2-ConsoleApp\\Program.cs",
               "RelativeToolTip": "DS2-ConsoleApp\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAiwFoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAgwE8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-10T19:09:21.31Z",
               "EditorCaption": ""
@@ -241,8 +236,7 @@
               "RelativeToolTip": "DS2-ConsoleApp\\Orm\\Dto\\Video.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T16:56:57.588Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-11T16:56:57.588Z"
             },
             {
               "$type": "Document",
@@ -254,8 +248,7 @@
               "RelativeToolTip": "DS2-ConsoleApp\\Orm\\Dto\\Media.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T17:05:19.565Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-11T17:05:19.565Z"
             },
             {
               "$type": "Document",
@@ -267,8 +260,7 @@
               "RelativeToolTip": "DS2-ConsoleApp\\Orm\\Dao\\MediaDao.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAA2wCwAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T17:07:47.671Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-11T17:07:47.671Z"
             },
             {
               "$type": "Document",
@@ -280,8 +272,7 @@
               "RelativeToolTip": "DS2-ConsoleApp\\Orm\\Dto\\VideoCategory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T22:35:53.291Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-11T22:35:53.291Z"
             },
             {
               "$type": "Document",
@@ -293,8 +284,7 @@
               "RelativeToolTip": "DS2-ConsoleApp\\Orm\\Dao\\VideoCategoryDao.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T22:36:43.653Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-11T22:36:43.653Z"
             },
             {
               "$type": "Document",
@@ -306,8 +296,7 @@
               "RelativeToolTip": "DS2-ConsoleApp\\Orm\\Dto\\PlaylistVideo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T22:49:44.156Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-11T22:49:44.156Z"
             },
             {
               "$type": "Document",
@@ -319,8 +308,7 @@
               "RelativeToolTip": "DS2-ConsoleApp\\Orm\\Dto\\Visibility.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAIwBsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T17:02:13.896Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-11T17:02:13.896Z"
             },
             {
               "$type": "Document",
@@ -332,8 +320,7 @@
               "RelativeToolTip": "DS2-ConsoleApp\\Helper\\SqlAttribMapper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T19:57:46.733Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-11T19:57:46.733Z"
             },
             {
               "$type": "Document",
@@ -345,8 +332,7 @@
               "RelativeToolTip": "DS2-ConsoleApp\\Orm\\Dto\\MediaType.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAADwvyAAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T17:07:24.418Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-11T17:07:24.418Z"
             },
             {
               "$type": "Document",
@@ -358,8 +344,7 @@
               "RelativeToolTip": "DS2-ConsoleApp\\Orm\\Dao\\CategoryDao.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwBkAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T20:50:58.245Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-11T20:50:58.245Z"
             },
             {
               "$type": "Document",
@@ -371,8 +356,7 @@
               "RelativeToolTip": "DS2-ConsoleApp\\Orm\\Dao\\ChannelDao.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwBcAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T18:31:57.714Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-11T18:31:57.714Z"
             },
             {
               "$type": "Document",
@@ -384,8 +368,7 @@
               "RelativeToolTip": "DS2-ConsoleApp\\Orm\\Dto\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T20:37:48.005Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-11T20:37:48.005Z"
             },
             {
               "$type": "Document",
@@ -397,8 +380,7 @@
               "RelativeToolTip": "DS2-ConsoleApp\\Orm\\Dto\\Playlist.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T19:36:54.628Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-11T19:36:54.628Z"
             },
             {
               "$type": "Document",

@@ -1,12 +1,6 @@
-﻿
-
-using DS2ConsoleApp.Orm;
+﻿using DS2ConsoleApp.Orm;
 using DS2ConsoleApp.Orm.Dao;
 using DS2ConsoleApp.Orm.Dto;
-using Oracle.ManagedDataAccess.Client;
-using System.ComponentModel;
-using System.Configuration;
-using System.Linq;
 
 namespace DS2ConsoleApp
 {
@@ -64,27 +58,33 @@ namespace DS2ConsoleApp
             //PlaylistDao.InsertPlaylist(db, playlist);
 
 
-            var insertedVideoId = TransactionDao.FinishVideoUpload(
-                db, 
-                12, 
-                "My transaction video 1", 
-                "My description", 
-                Visibility.Public,
-                true,
-                420,
-                35,
-                11,
-                [14, 15, 16],
-                [1,2,3,4,5],
-                [
+            var parameters = new TransactionDao.FinishVideoUploadParameters()
+            {
+                ChannelId = 12, 
+                Title = "My transaction video 1", 
+                Description = "My description", 
+                Visibility = Visibility.Public,
+                IsMonetized = true,
+                Duration = 420,
+                ThumbnailMediaId = 35,
+                VideoMediaId = 11,
+                PlaylistIds = [14, 15, 16],
+                CategoryIds = [1,2,3,4,5],
+                Chapters = [
                     new () { Title = "Intro", StartTime = 0 },
                     new () { Title = "Main", StartTime = 20 },
                     new () { Title = "Summary", StartTime = 350 },
                     new () { Title = "Outro", StartTime = 400 },
                 ]
-                );
+            };
 
+#if false
+            var insertedVideoId = TransactionDao.FinishVideoUpload(db, parameters);
             Console.WriteLine($"Inserted Video Id: {insertedVideoId}");
+#else
+            var insertedVideoId = TransactionDao.SP_FinishVideoUpload(db, parameters);
+            Console.WriteLine($"Inserted Video Id: {insertedVideoId}");
+#endif
 
 
             db.Close();

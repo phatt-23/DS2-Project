@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DS2-ConsoleApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+874c15dde43eb3a6e67e41d588adf88bafe3e67b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05d59099583617f33ddc78ff435f45ec814391ff")]
 [assembly: System.Reflection.AssemblyProductAttribute("DS2-ConsoleApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DS2-ConsoleApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
