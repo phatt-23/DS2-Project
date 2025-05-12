@@ -729,6 +729,19 @@
         "runtime": {
           "lib/netcoreapp2.1/_._": {}
         }
+      },
+      "DS2-OrmLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.Data.SqlClient": "6.0.2"
+        },
+        "compile": {
+          "bin/placeholder/DS2-OrmLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DS2-OrmLib.dll": {}
+        }
       }
     }
   },
@@ -1862,10 +1875,16 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "DS2-OrmLib/1.0.0": {
+      "type": "project",
+      "path": "../DS2-OrmLib/DS2-OrmLib.csproj",
+      "msbuildProject": "../DS2-OrmLib/DS2-OrmLib.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "DS2-OrmLib >= 1.0.0",
       "Microsoft.Data.SqlClient >= 6.0.2",
       "Oracle.ManagedDataAccess.Core >= 23.8.0",
       "System.Configuration.ConfigurationManager >= 9.0.4"
@@ -1903,7 +1922,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\phatt\\Desktop\\DS2-Project\\Project-Impl\\DS2-ConsoleApp\\DS2-OrmLib\\DS2-OrmLib.csproj": {
+              "projectPath": "C:\\Users\\phatt\\Desktop\\DS2-Project\\Project-Impl\\DS2-ConsoleApp\\DS2-OrmLib\\DS2-OrmLib.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

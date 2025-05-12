@@ -143,3 +143,5 @@ C:\Users\phatt\Desktop\DS2-Project\Project-Impl\DS2-ConsoleApp\DS2-ConsoleApp\ob
 C:\Users\phatt\Desktop\DS2-Project\Project-Impl\DS2-ConsoleApp\DS2-ConsoleApp\obj\Debug\net8.0\DS2-ConsoleApp.pdb
 C:\Users\phatt\Desktop\DS2-Project\Project-Impl\DS2-ConsoleApp\DS2-ConsoleApp\obj\Debug\net8.0\DS2-ConsoleApp.genruntimeconfig.cache
 C:\Users\phatt\Desktop\DS2-Project\Project-Impl\DS2-ConsoleApp\DS2-ConsoleApp\obj\Debug\net8.0\ref\DS2-ConsoleApp.dll
+C:\Users\phatt\Desktop\DS2-Project\Project-Impl\DS2-ConsoleApp\DS2-ConsoleApp\bin\Debug\net8.0\DS2-OrmLib.dll
+C:\Users\phatt\Desktop\DS2-Project\Project-Impl\DS2-ConsoleApp\DS2-ConsoleApp\bin\Debug\net8.0\DS2-OrmLib.pdb

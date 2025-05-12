@@ -33,21 +33,32 @@ BEGIN
             SELECT 1 FROM z_media m
             WHERE m.media_id = @p_video_media_id AND m.[type] = 'video'
         )
-            THROW 50003, 'Video media is invalid.', 1;
+            THROW 50002, 'Video media is invalid.', 1;
 
         -- Validate categories
         IF EXISTS (
             SELECT 1 FROM @p_category_ids pc
-            WHERE NOT EXISTS (SELECT 1 FROM z_category c WHERE pc.[value] = c.category_id)
+            WHERE NOT EXISTS (SELECT 1 FROM z_category c WHERE pc.value = c.category_id)
         )
-            THROW 50002, 'Category doesnt exist.', 1;
+            THROW 50003, 'Category doesnt exist.', 1;
 
         -- Validate chapters are within the videos duration
         IF EXISTS (
             SELECT 1 FROM @p_chapters pc
             WHERE NOT (pc.start_time >= 0 AND pc.start_time <= @p_duration)
         )
-            THROW 50002, 'Chapter start_time out of range.', 1;
+            THROW 50004, 'Chapter start_time out of range.', 1;
+
+        -- Validate that playlists belong to channel
+        IF EXISTS (
+            SELECT 1 
+            FROM @p_playlist_ids ppi 
+            WHERE EXISTS (
+                SELECT 1 FROM z_playlist zp 
+                WHERE zp.playlist_id = ppi.value AND NOT zp.channel_id = @p_channel_id
+            )
+        ) 
+            THROW 50005, 'Playlist doesnt belong to channel.', 1;
 
         -- Insert video
         INSERT INTO z_video (
@@ -66,27 +77,26 @@ BEGIN
 
         -- Insert into z_video_category
         INSERT INTO z_video_category (video_id, category_id)
-        SELECT @video_id, pc.[value] FROM @p_category_ids pc;
+        SELECT @video_id, pc.value FROM @p_category_ids pc;
 
         -- Insert into z_playlist_video with ordering
         DECLARE @playlist_id BIGINT, 
                 @next_order INT;
 		
-        DECLARE playlist_cursor CURSOR FOR SELECT p.[value] FROM @p_playlist_ids p;
-            OPEN playlist_cursor;
-                FETCH NEXT FROM playlist_cursor INTO @playlist_id
-                
-                WHILE @@FETCH_STATUS = 0 
-                BEGIN
-                    SELECT @next_order = ISNULL(MAX(pv.[order]), 0) + 1
-                    FROM z_playlist_video pv
-                    WHERE playlist_id = @playlist_id
+        DECLARE playlist_cursor CURSOR FOR SELECT p.value FROM @p_playlist_ids p;
+        OPEN playlist_cursor;
+            FETCH NEXT FROM playlist_cursor INTO @playlist_id 
+            WHILE @@FETCH_STATUS = 0 
+            BEGIN
+                SELECT @next_order = ISNULL(MAX(pv.[order]), 0) + 1
+                FROM z_playlist_video pv
+                WHERE playlist_id = @playlist_id
                     
-                    INSERT INTO z_playlist_video (playlist_id, video_id, [order])
-                    VALUES (@playlist_id, @video_id, @next_order)
-                    FETCH NEXT FROM playlist_cursor INTO @playlist_id;
-                END
-            CLOSE playlist_cursor;
+                INSERT INTO z_playlist_video (playlist_id, video_id, [order])
+                VALUES (@playlist_id, @video_id, @next_order)
+                FETCH NEXT FROM playlist_cursor INTO @playlist_id;
+            END
+        CLOSE playlist_cursor;
         DEALLOCATE playlist_cursor;
 
         -- Insert video chapters
@@ -94,6 +104,7 @@ BEGIN
         SELECT @video_id, pc.title, pc.start_time FROM @p_chapters pc;
 
         COMMIT;
+
         SET @p_inserted_video_id = @video_id;
     END TRY
     BEGIN CATCH

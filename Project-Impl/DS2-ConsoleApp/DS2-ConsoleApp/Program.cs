@@ -1,6 +1,7 @@
-﻿using DS2ConsoleApp.Orm;
-using DS2ConsoleApp.Orm.Dao;
-using DS2ConsoleApp.Orm.Dto;
+﻿using DS2OrmLib;
+using DS2OrmLib.Dao;
+using DS2OrmLib.Dto;
+using System.Configuration;
 
 namespace DS2ConsoleApp
 {
@@ -8,7 +9,7 @@ namespace DS2ConsoleApp
     {
         static void Main(string[] args)
         {
-            var db = new Database();
+            var db = new Database(ConfigurationManager.ConnectionStrings[Config.ConnectionStringMsSql].ConnectionString);
             db.Connect();
 
             //Media video = new()

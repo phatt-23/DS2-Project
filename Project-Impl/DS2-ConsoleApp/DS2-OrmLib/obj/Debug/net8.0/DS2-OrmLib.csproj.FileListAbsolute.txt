@@ -1,0 +1,13 @@
+C:\Users\phatt\Desktop\DS2-Project\Project-Impl\DS2-ConsoleApp\DS2-OrmLib\obj\Debug\net8.0\DS2-OrmLib.csproj.AssemblyReference.cache
+C:\Users\phatt\Desktop\DS2-Project\Project-Impl\DS2-ConsoleApp\DS2-OrmLib\obj\Debug\net8.0\DS2-OrmLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phatt\Desktop\DS2-Project\Project-Impl\DS2-ConsoleApp\DS2-OrmLib\obj\Debug\net8.0\DS2-OrmLib.AssemblyInfoInputs.cache
+C:\Users\phatt\Desktop\DS2-Project\Project-Impl\DS2-ConsoleApp\DS2-OrmLib\obj\Debug\net8.0\DS2-OrmLib.AssemblyInfo.cs
+C:\Users\phatt\Desktop\DS2-Project\Project-Impl\DS2-ConsoleApp\DS2-OrmLib\obj\Debug\net8.0\DS2-OrmLib.csproj.CoreCompileInputs.cache
+C:\Users\phatt\Desktop\DS2-Project\Project-Impl\DS2-ConsoleApp\DS2-OrmLib\obj\Debug\net8.0\DS2-OrmLib.sourcelink.json
+C:\Users\phatt\Desktop\DS2-Project\Project-Impl\DS2-ConsoleApp\DS2-OrmLib\bin\Debug\net8.0\DS2-OrmLib.deps.json
+C:\Users\phatt\Desktop\DS2-Project\Project-Impl\DS2-ConsoleApp\DS2-OrmLib\bin\Debug\net8.0\DS2-OrmLib.dll
+C:\Users\phatt\Desktop\DS2-Project\Project-Impl\DS2-ConsoleApp\DS2-OrmLib\bin\Debug\net8.0\DS2-OrmLib.pdb
+C:\Users\phatt\Desktop\DS2-Project\Project-Impl\DS2-ConsoleApp\DS2-OrmLib\obj\Debug\net8.0\DS2-OrmLib.dll
+C:\Users\phatt\Desktop\DS2-Project\Project-Impl\DS2-ConsoleApp\DS2-OrmLib\obj\Debug\net8.0\refint\DS2-OrmLib.dll
+C:\Users\phatt\Desktop\DS2-Project\Project-Impl\DS2-ConsoleApp\DS2-OrmLib\obj\Debug\net8.0\DS2-OrmLib.pdb
+C:\Users\phatt\Desktop\DS2-Project\Project-Impl\DS2-ConsoleApp\DS2-OrmLib\obj\Debug\net8.0\ref\DS2-OrmLib.dll
